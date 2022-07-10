@@ -1,7 +1,4 @@
 # Hello, I am Bulat
 
 ### I write code in Javascript
-
-## Codewars Profile
-
-[https://www.codewars.com/users/localheader/badges/large]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=localhead)](https://github.com/localhead/github-readme-stats)
