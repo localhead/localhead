@@ -1,4 +1,4 @@
-# Hello.
+# Hello!
 
 ### I write code in Javascript and C
 [![Profile badge](https://www.codewars.com/users/localheader/badges/large)](https://www.codewars.com/users/localheader)
