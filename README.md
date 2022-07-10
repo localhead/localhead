@@ -5,4 +5,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=localhead&show_icons=true&theme=dracula)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=localhead&theme=tokyonight)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=localhead&theme=dracula)
