@@ -1,6 +1,6 @@
 ### Oh, hi there!
 
-I write javascript code
+I write Javascript code
 
 [![Profile badge](https://www.codewars.com/users/localheader/badges/large)](https://www.codewars.com/users/localheader)
 
