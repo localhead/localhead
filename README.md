@@ -6,6 +6,8 @@ I write Javascript code
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=localhead&theme=gruvbox)
 
+
+### Here is the list of my projects.
 |Project name|Preview|Stack|Short description|
 |:-----------|:------|:---:|:----------------|
 |   [Mannlichen Bank Application](https://github.com/localhead/Mannlichen-Bank-App)| ![111](https://user-images.githubusercontent.com/33180512/181350508-c2f1f9bf-cd1a-4761-88b8-ab38b994cce9.png)|<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="JavaScript Logo" width="20" height="20"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript Logo" width="20" height="20"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="20" height="20"/>|This project imitates the behavior of fictional, close to real world, banking application. It has three precodded user objects which allows to log in use the app's functionality. Clone repository and open it in your browser! (you can find logins and pins in repository's Readme file)|
