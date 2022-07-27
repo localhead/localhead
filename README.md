@@ -1,6 +1,6 @@
-## Hello!
+### Oh, hi there!
 
-I write code in Javascript and C
+I write javascript code
 
 [![Profile badge](https://www.codewars.com/users/localheader/badges/large)](https://www.codewars.com/users/localheader)
 
