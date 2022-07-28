@@ -1,7 +1,7 @@
 # Oh, hi there!
 
 ### Currently, I learn to write Javascript code
-<h4 align="left">How to reach me:</h4>
+<h4 align="left">How we can get in touch:</h4>
 <p align="left" target="blank">
 <a href="mailto:dodoalive1994@gmail.com">
   <img alt="Gmail" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" >
@@ -9,9 +9,12 @@
 <a href="https://t.me/graycutt">
   <img alt="Telegram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" >
 </a>
-<a href="https://www.instagram.com/graycut/">
-  <img alt="Instagram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" >
+<a href="https://vk.com/bulat_bulat_bulat">
+  <img alt="Telegram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" >
 </a>
+<!-- <a href="https://www.instagram.com/graycut/">
+  <img alt="Instagram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" >
+</a>-->
 <h4 align="left"> </h4>
 </p>
 
