@@ -1,7 +1,21 @@
-## Oh, hi there!
+# Oh, hi there!
 
-### I write Javascript code
+### Currently, I learn to write Javascript code
+<h4 align="left">How to reach me:</h4>
+<p align="left" target="blank">
+<a href="mailto:dodoalive1994@gmail.com">
+  <img alt="Gmail" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" >
+</a>
+<a href="https://t.me/graycutt">
+  <img alt="Telegram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" >
+</a>
+<a href="https://www.instagram.com/graycut/">
+  <img alt="Instagram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" >
+</a>
+<h4 align="left"> </h4>
+</p>
 
+### Codewars Profile:
 [![Profile badge](https://www.codewars.com/users/localheader/badges/large)](https://www.codewars.com/users/localheader)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=localhead&theme=gruvbox)
