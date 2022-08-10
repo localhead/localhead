@@ -1,7 +1,7 @@
 # Oh, hi there!
 
 ### Currently, I learn to write Javascript code
-<h4 align="left">How we can get in touch:</h4>
+<h4 align="left">How can we get in touch:</h4>
 <p align="left" target="blank">
 <a href="mailto:dodoalive1994@gmail.com">
   <img alt="Gmail" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" >
