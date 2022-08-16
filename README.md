@@ -1,4 +1,4 @@
-# Oh, hi there!
+#  Hello, there!
 
 ### Currently, I learn to write Javascript code
 <h4 align="left">How can we get in touch:</h4>
