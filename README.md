@@ -1,6 +1,6 @@
 #  Hello, there!
 
-### Currently, I learn Javascript & React
+### Currently, I learn Javascript & React development
 <h4 align="left">How can we get in touch:</h4>
 <p align="left" target="blank">
 <a href="mailto:dodoalive1994@gmail.com">
