@@ -3,14 +3,11 @@
 ### Currently, I learn Javascript, Typescript & React development
 <h4 align="left">How can we get in touch:</h4>
 <p align="left" target="blank">
-<a href="mailto:dodoalive1994@gmail.com">
+<a href="mailto:rakhmanov.bulat.job@gmail.com">
   <img alt="Gmail" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" >
 </a>
 <a href="https://t.me/graycutt">
   <img alt="Telegram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" >
-</a>
-<a href="https://vk.com/bulat_bulat_bulat">
-  <img alt="Telegram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" >
 </a>
 <!-- <a href="https://www.instagram.com/graycut/">
   <img alt="Instagram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" >
